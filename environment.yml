@@ -1,0 +1,11 @@
+name: browser-kernels
+channels:
+  - https://prefix.dev/emscripten-forge-4x
+  - https://prefix.dev/conda-forge
+dependencies:
+  - xeus-python
+  - xeus-r
+  - xeus-javascript
+  - xeus-cpp
+  - numpy
+  - matplotlib

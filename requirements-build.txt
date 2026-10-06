@@ -1,0 +1,4 @@
+# Host-side packages used only to assemble the static JupyterLite site.
+jupyterlite-core==0.7.3
+jupyterlite-xeus==4.3.0
+notebook==7.5.0
